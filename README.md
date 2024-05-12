@@ -1,7 +1,7 @@
 # RoySauce-60-v2
-Second version of RoySauce 60
-60% custom mechanical keyboard with gummy o-ring mount.
+Second version of RoySauce 60% custom mechanical keyboard with gummy o-ring mount.
 
+- One-piece case.
 - Wavy HG sides with undercut.
 - 7 degree typing angle.
 - 18.5mm front face height.
